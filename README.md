@@ -1,4 +1,4 @@
-# AML_transcriptome
+# AML Transcriptome
 Supporting repository for thesis of Long Noncoding Transcriptome in AML. This repository includes the supplementary tables for the chapter on transcribed super-enhancer in my PhD thesis.
 
 - Table S2-3: SE loci annotated with their interacting protein-coding genes by pCHi-C data in CD34-positive hematopoietic progenitor cells.
